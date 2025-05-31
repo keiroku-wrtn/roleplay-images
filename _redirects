@@ -1,42 +1,33 @@
-# 画像特徴リダイレクト設定
 # 形式: /胸/服/瞳/髪色/髪長 → 実際の画像URL
-
-# 貧乳・バニー (1-8番)
 /poor/bunny/black/gold/long       https://i.ibb.co/KxrnXMfq/01.png   302
-/poor/bunny/blue/gold/short       https://i.ibb.co/SDJFyhvQ/02.png   302
-/poor/bunny/blue/dark/long        https://i.ibb.co/zHPX0NBS/03.png   302
+/poor/bunny/black/gold/short       https://i.ibb.co/SDJFyhvQ/02.png   302
+/poor/bunny/black/dark/long        https://i.ibb.co/zHPX0NBS/03.png   302
 /poor/bunny/black/dark/short      https://i.ibb.co/PZ6GbtCm/04.png   302
 /poor/bunny/blue/gold/long        https://i.ibb.co/1YsdG9tS/05.png   302
-/poor/bunny/black/gold/short      https://i.ibb.co/DPq1PqmR/06.png   302
-/poor/bunny/black/dark/long       https://i.ibb.co/4cm4hkv/07.png    302
+/poor/bunny/blue/gold/short      https://i.ibb.co/DPq1PqmR/06.png   302
+/poor/bunny/blue/dark/long       https://i.ibb.co/4cm4hkv/07.png    302
 /poor/bunny/blue/dark/short       https://i.ibb.co/GQnZ4yjH/08.png   302
-
-# 巨乳・バニー (9-16番)
-/big/bunny/black/gold/long        https://i.ibb.co/JwTKgqZP/09.png   302
-/big/bunny/blue/gold/short        https://i.ibb.co/JWwc3QGw/10.png   302
-/big/bunny/blue/dark/long         https://i.ibb.co/pjv7d2hb/11.png   302
-/big/bunny/black/dark/short       https://i.ibb.co/tpBV8jgx/12.png   302
-/big/bunny/blue/gold/long         https://i.ibb.co/Y7PhCFFd/13.png   302
-/big/bunny/black/gold/short       https://i.ibb.co/JFFFGkyP/14.png   302
-/big/bunny/black/dark/long        https://i.ibb.co/WvTJZ6d3/15.png   302
-/big/bunny/blue/dark/short        https://i.ibb.co/qLYzVtcv/16.png   302
-
-# 貧乳・メイド (17-24番)
-/poor/maid/black/gold/long        https://i.ibb.co/6RQ1DdMW/17.png   302
-/poor/maid/blue/gold/short        https://i.ibb.co/pvwwp65X/18.png   302
-/poor/maid/blue/dark/long         https://i.ibb.co/Gvs7gN0y/19.png   302
-/poor/maid/black/dark/short       https://i.ibb.co/8gx3kWbS/20.png   302
-/poor/maid/blue/gold/long         https://i.ibb.co/3yX9d3Ys/21.png   302
-/poor/maid/black/gold/short       https://i.ibb.co/w8k0QLw/22.png    302
-/poor/maid/black/dark/long        https://i.ibb.co/6RnFMPBf/23.png   302
-/poor/maid/blue/dark/short        https://i.ibb.co/LhsdvjKg/24.png   302
-
-# 巨乳・メイド (25-32番)
+/poor/maid/black/gold/long        https://i.ibb.co/JwTKgqZP/09.png   302
+/poor/maid/black/gold/short        https://i.ibb.co/JWwc3QGw/10.png   302
+/poor/maid/black/dark/long         https://i.ibb.co/pjv7d2hb/11.png   302
+/poor/maid/black/dark/short       https://i.ibb.co/tpBV8jgx/12.png   302
+/poor/maid/blue/gold/long         https://i.ibb.co/Y7PhCFFd/13.png   302
+/poor/maid/blue/gold/short       https://i.ibb.co/JFFFGkyP/14.png   302
+/poor/maid/blue/dark/long        https://i.ibb.co/WvTJZ6d3/15.png   302
+/poor/maid/blue/dark/short        https://i.ibb.co/qLYzVtcv/16.png   302
+/big/bunny/black/gold/long        https://i.ibb.co/6RQ1DdMW/17.png   302
+/big/bunny/black/gold/short        https://i.ibb.co/pvwwp65X/18.png   302
+/big/bunny/black/dark/long         https://i.ibb.co/Gvs7gN0y/19.png   302
+/big/bunny/black/dark/short       https://i.ibb.co/8gx3kWbS/20.png   302
+/big/bunny/blue/gold/long         https://i.ibb.co/3yX9d3Ys/21.png   302
+/big/bunny/blue/gold/short       https://i.ibb.co/w8k0QLw/22.png    302
+/big/bunny/blue/dark/long        https://i.ibb.co/6RnFMPBf/23.png   302
+/big/bunny/blue/dark/short        https://i.ibb.co/LhsdvjKg/24.png   302
 /big/maid/black/gold/long         https://i.ibb.co/0yQ632MV/25.png   302
-/big/maid/blue/gold/short         https://i.ibb.co/vtTgBDT/26.png    302
-/big/maid/blue/dark/long          https://i.ibb.co/XrS0C0BS/27.png   302
+/big/maid/black/gold/short         https://i.ibb.co/vtTgBDT/26.png    302
+/big/maid/black/dark/long          https://i.ibb.co/XrS0C0BS/27.png   302
 /big/maid/black/dark/short        https://i.ibb.co/hQyqRzx/28.png    302
 /big/maid/blue/gold/long          https://i.ibb.co/mCXKkk9n/29.png   302
-/big/maid/black/gold/short        https://i.ibb.co/5hXPpWy5/30.png   302
+/big/maid/blue/gold/short        https://i.ibb.co/5hXPpWy5/30.png   302
 /big/maid/black/dark/long         https://i.ibb.co/WqDFVwK/31.png    302
 /big/maid/blue/dark/short         https://i.ibb.co/RGCFJxNF/32.png   302
